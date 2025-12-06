@@ -2,7 +2,7 @@
 
 **Authors:** AMLLAL Amine & HAJJI Mohamed  
 **Supervisor:** M. BARBARA Idriss  
-**Academic Year:** 2024-2025  
+**Academic Year:** 2025-2026  
 **Institution:** École Nationale Supérieure d'Arts et Métiers Meknès, Université Moulay Ismail
 
 ---
@@ -200,8 +200,8 @@ if user_input:
 ## 👥 Credits & Acknowledgments
 
 **Project Team:**
-- **AMLLAL Amine** – Lead Developer & Knowledge Engineer
-- **HAJJI Mohamed** – NLU Configuration & Integration Specialist
+- **AMLLAL Amine** 
+- **HAJJI Mohamed**
 
 **Academic Supervision:**
 - **M. BARBARA Idriss** – Project Supervisor
@@ -219,15 +219,6 @@ if user_input:
 ## 📄 License
 
 This project is developed for academic purposes at ENSAM Meknès. All rights reserved to the authors and the institution.
-
----
-
-## 📞 Contact & Support
-
-For technical inquiries, feature requests, or collaboration opportunities:
-
-- **Project Email:** [Contact through ENSAM administration]
-- **Institution:** ENSAM Meknès, Université Moulay Ismail
 
 ---
 
